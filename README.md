@@ -16,7 +16,7 @@ Or, open the Cypress app with `npx cypress open` and run the tests manually in U
 Cypress tests are located in e2e/pageShop folder. Tests are:
  - `logIn.cy.js` - testing the login flow
  - `order.cy.js` - testing the product ordering flow
- - `userRegistration.cy.` - testing the new user registration flow
+ - `userRegistration.cy` - testing the new user registration flow
 
 Manual test cases are written in the following document:
 `Atlantbh - test cases.pdf`
